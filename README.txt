@@ -18,6 +18,9 @@ pandas
 
 reportlab (PDF)
 
+Para ejecutar el script, es necesario abrir la CMD, navegar hasta la carpeta del proyecto y ejecutar el archivo .py.
+Al finalizar, el informe PDF se genera automáticamente en la misma carpeta.
 
 Es un proyecto que uso en mi vida personal, particularmente lo adapté para registrar y analizar mi aprendizaje de inglés, separando actividades como speaking, 
 listening, reading y writing para poder llevar registro de mi estudio.
+
